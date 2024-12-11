@@ -61,7 +61,7 @@ To get started, make sure you have the following installed:
 
 1. Frontend
    ```bash
-   npm start
+   npm run dev
 
 2. Backend
    ```bash
